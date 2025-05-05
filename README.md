@@ -21,4 +21,4 @@ This repository contains a complete machine learning pipeline for predicting hou
 - ⬆️ **model improvement**: new improved model moves 600 positions up the Kaggle competition leaderboard.
 
 ## Notes
-The deployment still using the old model, the new model is deployed yet.
+The deployment still using the old model, the new improved model is not deployed yet.
